@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **linmicarm/linmicarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi there, I'm Michelle 👋🏾✨</h1>
+<h3 align="center">A self-proclaimed softgirl engineer building cute things that actually work</h3>
+
+- 🔭 I’m currently working on **personal projects that live at the intersection of good code and good aesthetics**
+
+- 🌱 I’m currently learning **new languages, frameworks, and whatever this journey throws at me next**
+
+- 👯 I’m looking to collaborate on **full stack apps, AI/ML experiments, and anything that could be more aesthetic**
+
+- 💬 Ask me about **frontend magic, backend logic, data pipelines, or how I do it all while keeping it cute**
+
