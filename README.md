@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm Michelle 👋🏾✨</h1>
+<h1 align="center">Hey, I'm Michelle 👋🏾✨</h1>
 <h3 align="center">A self-proclaimed softgirl engineer building cute things that actually work</h3>
 
 - 🔭 I’m currently working on **personal projects that live at the intersection of good code and good aesthetics**
