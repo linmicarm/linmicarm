@@ -48,7 +48,7 @@ i care about:
 
 ---
 
-### 📫 find me here
+### 💌 find me here
 - github: https://github.com/linmicarm  
 - linkedin: https://linkedin.com/in/linmicarm  
 
