@@ -13,15 +13,45 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey, I'm Michelle</h1>
-<h3 align="center">I build things that look good and actually work</h3>
+<h1 align="center">hey, i'm michelle 👋🏾✨</h1>
+<p align="center">i build things that are soft on the eyes and solid under the hood</p>
 
-<ul>
-<li>I’m currently working on personal projects that sit somewhere between clean code and good design</li>
+---
 
-<li>I’m learning as I go — new languages, frameworks, patterns, whatever I need to make the idea real</li>
+### 🌱 what i'm up to
+- building personal projects where **aesthetics + functionality actually meet**
+- learning new tools, but more importantly, **learning how to think better as an engineer**
+- slowly turning my ideas into things people can *use*, not just admire
 
-<li>I like building full stack apps, experimenting with AI, and turning simple ideas into something a little more thoughtful</li>
+---
 
-<li>Ask me about frontend details, backend structure, data pipelines, or how I keep everything intentional without overcomplicating it</li>
-</ul>
+### 🛠️ what i work with
+- languages: javascript, typescript, python
+- frontend: react, next.js, html, css (the fun part)
+- backend: node.js, express
+- tools: git, github, vscode, figma
+
+---
+
+### 💭 how i approach building
+i care about:
+- code that makes sense *later*, not just now  
+- interfaces that feel calm, intuitive, and a little bit delightful  
+- shipping things, even when they’re not perfect  
+
+---
+
+### ✨ currently exploring
+- better UI patterns + design systems  
+- performance + clean architecture  
+- how to make technical things feel *human*  
+
+---
+
+### 📫 find me here
+- github: https://github.com/linmicarm  
+- linkedin: https://linkedin.com/in/linmicarm  
+
+---
+
+<p align="center">✨ thanks for stopping by ✨</p>
