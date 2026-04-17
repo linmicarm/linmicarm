@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey, I'm Michelle 👋🏾✨</h1>
-<h3 align="center">A self-proclaimed softgirl engineer building cute things that actually work</h3>
+<h1 align="center">Hey, I'm Michelle</h1>
+<h3 align="center">I build things that look good and actually work</h3>
 
-- 🔭 I’m currently working on **personal projects that live at the intersection of good code and good aesthetics**
+<ul>
+<li>I’m currently working on personal projects that sit somewhere between clean code and good design</li>
 
-- 🌱 I’m currently learning **new languages, frameworks, and whatever this journey throws at me next**
+<li>I’m learning as I go — new languages, frameworks, patterns, whatever I need to make the idea real</li>
 
-- 👯 I’m looking to collaborate on **full stack apps, AI/ML experiments, and anything that could be more aesthetic**
+<li>I like building full stack apps, experimenting with AI, and turning simple ideas into something a little more thoughtful</li>
 
-- 💬 Ask me about **frontend magic, backend logic, data pipelines, or how I do it all while keeping it cute**
-
+<li>Ask me about frontend details, backend structure, data pipelines, or how I keep everything intentional without overcomplicating it</li>
+</ul>
