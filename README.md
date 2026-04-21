@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 🛠️ what i work with
 - languages: javascript, typescript, python
 - frontend: react, next.js, html, css (the fun part)
-- backend: node.js, express
+- backend: node.js, express. sql, mongodb
 - tools: git, github, vscode, figma
 
 ---
