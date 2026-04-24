@@ -13,8 +13,8 @@
 ### 🛠️ what i work with
 - languages: javascript, typescript, python
 - frontend: react, next.js, html, css (the fun part)
-- backend: node.js, express, sql, mongodb
-- tools: git, github, vscode, figma
+- backend: node, express, postgresql, mongodb
+- tools: git, github, vscode, figma, claude, chatgpt
 
 ---
 
