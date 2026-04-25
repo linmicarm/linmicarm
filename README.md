@@ -11,7 +11,7 @@
 ---
 
 ### 🛠️ what i work with
-- languages: javascript, typescript, python
+- languages: javascript, typescript, python, c
 - frontend: react, next.js, html, css (the fun part)
 - backend: node, express, postgresql, mongodb
 - tools: git, github, vscode, figma, claude, chatgpt
