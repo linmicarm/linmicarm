@@ -34,7 +34,7 @@ i care about:
 ---
 
 ### 💌 find me here
-- github: https://github.com/linmicarm  
+- github: https://linmicarm.github.io
 - linkedin: https://linkedin.com/in/linmicarm  
 
 ---
