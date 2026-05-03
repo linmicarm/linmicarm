@@ -4,7 +4,7 @@
 ---
 
 ### 🌱 what i'm up to
-- building personal projects where **aesthetics + functionality actually meet**
+- building personal projects where **aesthetics + functionality meet**
 - learning new tools, but more importantly, **learning how to think better as an engineer**
 - slowly turning my ideas into things people can *use*, not just admire
 
