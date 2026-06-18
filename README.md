@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=32&duration=3000&pause=800&color=FFB3C6&center=true&vCenter=true&width=500&lines=hey%2C+i'm+michelle+%F0%9F%91%8B%F0%9F%8F%BE%E2%9C%A8;full-stack+dev+%C2%B7+anime+nerd;building+cozy+things+%E2%9C%A8" alt="typing animation" />
 </h1>
 
-<p align="center"><i>full-stack dev · anime & gaming nerd · building cozy things on the internet</i></p>
+<p align="center"><i>full-stack dev · anime & gaming nerd · building cute things on the internet</i></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/linmicarm">
@@ -52,7 +52,7 @@
 | 🌈 | **Portfolio** | a fully hand-coded personal portfolio site built with vanilla HTML, CSS, and JavaScript.  | <img src="https://img.shields.io/badge/HTML5-C8B6FF?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-FFB3C6?style=for-the-badge&logo=javascript&logoColor=white" /> | [repo](https://github.com/linmicarm/portfolio/tree/main) · [live](https://portfolio-ten-weld-87.vercel.app/) |
 | 🍙 | **Odin Eats** | a handcrafted recipe collection page built with html and css, featuring a curated set of japanese dishes and drinks. | <img src="https://img.shields.io/badge/HTML5-C8B6FF?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=for-the-badge&logo=css3&logoColor=white" /> | [repo](https://github.com/linmicarm/top/tree/main/recipes) · [live](https://linmicarm.github.io/top/recipes/) |
 | 🖥️ | **Landing Page** | a fully hand-coded landing page built as part of the odin project foundations curriculum. | <img src="https://img.shields.io/badge/HTML5-C8B6FF?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=for-the-badge&logo=css3&logoColor=white" /> | [repo](https://github.com/linmicarm/top/tree/main/landingPage) · [live](https://linmicarm.github.io/top/landingPage/) |
-| 🌙 | ** Sailor Moon Duels** | a sailor moon-themed rock paper scissors game built with vanilla HTML, CSS, and JavaScript.  | <img src="https://img.shields.io/badge/HTML5-C8B6FF?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-FFB3C6?style=for-the-badge&logo=javascript&logoColor=white" /> | [repo](https://github.com/linmicarm/top/tree/main/rockPaperScissors) · [live](https://linmicarm.github.io/top/rockPaperScissors/)|
+| 🌙 | **Sailor Moon Duels** | a sailor moon-themed rock paper scissors game built with vanilla HTML, CSS, and JavaScript.  | <img src="https://img.shields.io/badge/HTML5-C8B6FF?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-FFB3C6?style=for-the-badge&logo=javascript&logoColor=white" /> | [repo](https://github.com/linmicarm/top/tree/main/rockPaperScissors) · [live](https://linmicarm.github.io/top/rockPaperScissors/)|
 
 ---
 
