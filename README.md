@@ -49,40 +49,19 @@
 
 | | project | what it is | built with | links |
 |---|---------|-----------|-----------|-------|
-| 🌐 | **404 Offline** | community platform for atlanta's nerd & gaming scene | <img src="https://img.shields.io/badge/Next.js-FFB3C6?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-C8B6FF?style=flat-square&logo=typescript&logoColor=white"/> | [repo](#) · [live](#) |
-| 🎮 | **The Save Point** | a cozy personal platform, no vanity metrics | <img src="https://img.shields.io/badge/Node-B5EAD7?style=flat-square&logo=node.js&logoColor=4D4D4D"/> | [repo](#) |
+| 🌐 | **404 Offline** | community platform for atlanta's nerd & gaming scene | <img src="https://img.shields.io/badge/Next.js-FFB3C6?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-C8B6FF?style=flat-square&logo=typescript&logoColor=white"/> | [repo](#) · [live](#) |
+| 🎮 | **The Save Point** | a cozy personal platform, no vanity metrics | <img src="https://img.shields.io/badge/Node-B5EAD7?style=flat-square&logo=nodedotjs&logoColor=4D4D4D"/> | [repo](#) |
 
 ---
 
-### 🧰 tools i build with
+### 🧰 tech stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-FCE38A?style=for-the-badge&logo=javascript&logoColor=4D4D4D" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-C8B6FF?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-A0E7E5?style=for-the-badge&logo=python&logoColor=4D4D4D" alt="Python" />
-  <img src="https://img.shields.io/badge/C-FFDAC1?style=for-the-badge&logo=c&logoColor=4D4D4D" alt="C" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-B5EAD7?style=for-the-badge&logo=react&logoColor=4D4D4D" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-FFB3C6?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-FFDAC1?style=for-the-badge&logo=html5&logoColor=4D4D4D" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-C7CEEA?style=for-the-badge&logo=node.js&logoColor=4D4D4D" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-B5EAD7?style=for-the-badge&logo=express&logoColor=4D4D4D" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-A0E7E5?style=for-the-badge&logo=postgresql&logoColor=4D4D4D" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-B5EAD7?style=for-the-badge&logo=mongodb&logoColor=4D4D4D" alt="MongoDB" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-FFB3C6?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-C8B6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VSCode-A0E7E5?style=for-the-badge&logo=visualstudiocode&logoColor=4D4D4D" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Figma-FFDAC1?style=for-the-badge&logo=figma&logoColor=4D4D4D" alt="Figma" />
-</p>
+| | |
+|:---:|:---|
+| **languages** | <img src="https://img.shields.io/badge/JavaScript-FFB3C6?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFB3C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFB3C6?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-FFB3C6?style=for-the-badge&logo=c&logoColor=white" /> |
+| **frontend** | <img src="https://img.shields.io/badge/React-C8B6FF?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-C8B6FF?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-C8B6FF?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=for-the-badge&logo=css3&logoColor=white" /> |
+| **backend** | <img src="https://img.shields.io/badge/Node.js-B5EAD7?style=for-the-badge&logo=nodedotjs&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Express-B5EAD7?style=for-the-badge&logo=express&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/PostgreSQL-B5EAD7?style=for-the-badge&logo=postgresql&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/MongoDB-B5EAD7?style=for-the-badge&logo=mongodb&logoColor=4D4D4D" /> |
+| **tools** | <img src="https://img.shields.io/badge/Git-FFDAC1?style=for-the-badge&logo=git&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/GitHub-FFDAC1?style=for-the-badge&logo=github&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/VSCode-FFDAC1?style=for-the-badge&logo=visualstudiocode&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Figma-FFDAC1?style=for-the-badge&logo=figma&logoColor=4D4D4D" /> |
 
 ---
 
@@ -91,6 +70,7 @@
 - github: https://linmicarm.github.io
 - linkedin: https://linkedin.com/in/linmicarm
 - portfolio: https://portfolio-ten-weld-87.vercel.app/
+
 ---
 
 <p align="center">✨ thanks for stopping by ✨</p>
