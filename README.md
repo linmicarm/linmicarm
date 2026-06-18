@@ -42,6 +42,7 @@
 - better UI patterns + design systems
 - performance + clean architecture
 - how to make technical things feel *human*
+- system design + data structures and algorithms
 
 ---
 
