@@ -18,11 +18,12 @@
 
 ---
 
-### 🌱 what i'm doing
+### 🌱 what i'm currently doing
 
 - building personal projects where **aesthetics + functionality meet**
-- learning new tools, but more importantly, **learning how to think better as an engineer**
-- slowly turning my ideas into things people can *use*, not just admire
+- learning new tools, but more importantly, **learning to think better as an engineer**
+- digging into design systems and how to make technical things feel *human*
+- turning ideas into things people can *use*, not just admire
 
 <details>
 <summary>✨ current obsessions (...totally not related to how i code)</summary>
@@ -34,15 +35,6 @@
 - 🎵 *listening to:* jazz hip-hop and video game osts
 
 </details>
-
----
-
-### ✨ what i'm curious about
-
-- better UI patterns + design systems
-- performance + clean architecture
-- how to make technical things feel *human*
-- system design + data structures and algorithms
 
 ---
 
