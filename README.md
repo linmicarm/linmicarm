@@ -18,7 +18,7 @@
 
 ---
 
-### 🌱 what i'm currently doing
+### 🌱 what i'm currently working on
 
 - building personal projects where **aesthetics + functionality meet**
 - learning new tools, but more importantly, **learning to think better as an engineer**
