@@ -50,7 +50,7 @@
 | | project | what it is | built with | links |
 |---|---------|-----------|-----------|-------|
 | 🌈 | **Portfolio** | a fully hand-coded personal portfolio site built with vanilla HTML, CSS, and JavaScript.  | <img src="https://img.shields.io/badge/HTML5-C8B6FF?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-FFB3C6?style=for-the-badge&logo=javascript&logoColor=white" /> | [repo](https://github.com/linmicarm/portfolio/tree/main) · [live](https://portfolio-ten-weld-87.vercel.app/) |
-| 🍙 | **Odin Eats** | a handcrafted recipe collection page built with html and css, featuring a curated set of japanese dishes and drinks. | <img src="https://img.shields.io/badge/HTML5-C8B6FF?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=for-the-badge&logo=css3&logoColor=white" /> | [repo](https://github.com/linmicarm/top/tree/main/recipes) · [live](#) |
+| 🍙 | **Odin Eats** | a handcrafted recipe collection page built with html and css, featuring a curated set of japanese dishes and drinks. | <img src="https://img.shields.io/badge/HTML5-C8B6FF?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=for-the-badge&logo=css3&logoColor=white" /> | [repo](https://github.com/linmicarm/top/tree/main/recipes) · [live](https://linmicarm.github.io/top/recipes/) |
 
 ---
 
