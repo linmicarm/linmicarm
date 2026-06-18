@@ -37,6 +37,15 @@
 
 ---
 
+### 🎮 projects
+
+| | project | what it is | built with | links |
+|---|---------|-----------|-----------|-------|
+| 🌐 | **404 Offline** | community platform for atlanta's nerd & gaming scene | <img src="https://img.shields.io/badge/Next.js-FFB3C6?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-C8B6FF?style=flat-square&logo=typescript&logoColor=white"/> | [repo](#) · [live](#) |
+| 🎮 | **The Save Point** | a cozy personal platform, no vanity metrics | <img src="https://img.shields.io/badge/Node-B5EAD7?style=flat-square&logo=node.js&logoColor=4D4D4D"/> | [repo](#) |
+
+---
+
 ### 🧰 tools i build with
 
 - languages: javascript, typescript, python, c
