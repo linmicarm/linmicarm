@@ -25,7 +25,7 @@
 - slowly turning my ideas into things people can *use*, not just admire
 
 <details>
-<summary>✨ current obsessions</summary>
+<summary>✨ current obsessions (totally not related to how i code)</summary>
 
 - 🎮 *game:* SF6
 - 📺 *anime:* the apothecary diaries, witch hat atelier, and inuyasha
