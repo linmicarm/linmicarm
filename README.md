@@ -18,14 +18,14 @@
 
 ---
 
-### 🌱 currently
+### 🌱 currently doing
 
 - building personal projects where **aesthetics + functionality meet**
 - learning new tools, but more importantly, **learning how to think better as an engineer**
 - slowly turning my ideas into things people can *use*, not just admire
 
 <details>
-<summary>✨ things i'm currently obsessed with</summary>
+<summary>✨ current obsessions</summary>
 
 - 🎮 *game:* SF6
 - 📺 *anime:* the apothecary diaries, witch hat atelier, and inuyasha
@@ -34,6 +34,14 @@
 - 🎵 *listening to:* jazz hip-hop and video game osts
 
 </details>
+
+---
+
+### ✨ currently exploring
+
+- better UI patterns + design systems
+- performance + clean architecture
+- how to make technical things feel *human*
 
 ---
 
@@ -48,37 +56,33 @@
 
 ### 🧰 tools i build with
 
-- languages: javascript, typescript, python, c
-- frontend: react, next.js, html, css (the fun part)
-- backend: node, express, postgresql, mongodb
-- tools: git, github, vscode, figma, claude, chatgpt
-
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-FCE38A?style=for-the-badge&logo=javascript&logoColor=4D4D4D" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-B5EAD7?style=for-the-badge&logo=react&logoColor=4D4D4D" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-C7CEEA?style=for-the-badge&logo=node.js&logoColor=4D4D4D" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-FFDAC1?style=for-the-badge&logo=html5&logoColor=4D4D4D" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-FFB3C6?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/TypeScript-C8B6FF?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-A0E7E5?style=for-the-badge&logo=python&logoColor=4D4D4D" alt="Python" />
+  <img src="https://img.shields.io/badge/C-FFDAC1?style=for-the-badge&logo=c&logoColor=4D4D4D" alt="C" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/React-B5EAD7?style=for-the-badge&logo=react&logoColor=4D4D4D" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-FFB3C6?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-FFDAC1?style=for-the-badge&logo=html5&logoColor=4D4D4D" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-### 💭 how i approach building
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-C7CEEA?style=for-the-badge&logo=node.js&logoColor=4D4D4D" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-B5EAD7?style=for-the-badge&logo=express&logoColor=4D4D4D" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-A0E7E5?style=for-the-badge&logo=postgresql&logoColor=4D4D4D" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-B5EAD7?style=for-the-badge&logo=mongodb&logoColor=4D4D4D" alt="MongoDB" />
+</p>
 
-i care about:
-
-- code that makes sense *later*, not just now
-- interfaces that feel calm, intuitive, and a little bit delightful
-- shipping things, even when they're not perfect
-
----
-
-### ✨ currently exploring
-
-- better UI patterns + design systems
-- performance + clean architecture
-- how to make technical things feel *human*
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-FFB3C6?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-C8B6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VSCode-A0E7E5?style=for-the-badge&logo=visualstudiocode&logoColor=4D4D4D" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Figma-FFDAC1?style=for-the-badge&logo=figma&logoColor=4D4D4D" alt="Figma" />
+</p>
 
 ---
 
@@ -86,7 +90,7 @@ i care about:
 
 - github: https://linmicarm.github.io
 - linkedin: https://linkedin.com/in/linmicarm
-
+- portfolio: https://portfolio-ten-weld-87.vercel.app/
 ---
 
 <p align="center">✨ thanks for stopping by ✨</p>
