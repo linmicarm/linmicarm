@@ -78,3 +78,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=linmicarm.linmicarm&left_color=gray&right_color=ffb3c6" alt="visitor count" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=linmicarm" alt="profile views" />
+</p>
