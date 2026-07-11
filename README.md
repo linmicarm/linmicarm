@@ -59,7 +59,7 @@ full-stack: auth, multi-entity crud, mapbox, and a live presence system.
 
 ### 🌱 what i'm working on
 
-- **404 Offline** — a community platform for atlanta's nerd, kawaii, and asian culture scene
+- **404 Offline** — a community platform for atlanta's nerd scene
 - **Penciled In** — a real-time collaborative planning board (websockets, live cursors, shared state)
 - getting better at the part that isn't code: designing systems, making tradeoffs, knowing what to cut
 
