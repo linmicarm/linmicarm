@@ -28,7 +28,7 @@
 
 **a gentle journaling companion**
 
-write an entry, receive one soft ai reflection back. not advice, not a fix — just a quiet noticing.
+write an entry, receive one soft ai reflection back. not advice, not a fix, just a quiet noticing.
 
 the interesting part isn't the model call. it's the designed voice, the wellbeing guardrail that runs *before* the model is ever consulted, and the serverless proxy that keeps the api key off the client.
 
