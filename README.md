@@ -34,7 +34,7 @@ the interesting part isn't the model call. it's the designed voice, the wellbein
 
 <img src="https://img.shields.io/badge/React-C8B6FF?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-C8B6FF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-FFB3C6?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-B5EAD7?style=flat-square&logo=vercel&logoColor=4D4D4D" />
 
-**[live demo]((https://kagami-app-sandy.vercel.app/))** · **[repo](https://github.com/linmicarm/kagami)**
+**[live demo](https://kagami-app-sandy.vercel.app/)** · **[repo](https://github.com/linmicarm/kagami)**
 
 </td>
 <td width="50%" valign="top">
