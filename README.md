@@ -43,7 +43,7 @@ the interesting part isn't the model call. it's the designed voice, the wellbein
 
 **atlanta's nerd scene, found**
 
-the social layer between discord and real life. spawn points, side quests, guilds, and party finder — everything that happens between con seasons.
+the social layer between discord and real life. spawn points, side quests, guilds, and party finder. everything that can be found between con seasons.
 
 full-stack: auth, multi-entity crud, mapbox, and a live presence system.
 
