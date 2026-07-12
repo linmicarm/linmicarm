@@ -22,6 +22,23 @@
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+#### 🍑 [404 Offline](https://github.com/linmicarm) `in progress`
+
+**atlanta's nerd scene, found**
+
+the social layer between discord and real life. spawn points, side quests, guilds, and party finder. everything that can be found between con seasons.
+
+full-stack: auth, multi-entity crud, mapbox, and a live presence system.
+
+<img src="https://img.shields.io/badge/Next.js-C8B6FF?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFB3C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-B5EAD7?style=flat-square&logo=supabase&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Mapbox-B5EAD7?style=flat-square&logo=mapbox&logoColor=4D4D4D" />
+
+*coming soon*
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🪞 [Kagami](https://github.com/linmicarm/kagami)
@@ -39,28 +56,26 @@ the interesting part isn't the model call. it's the designed voice, the wellbein
 </td>
 <td width="50%" valign="top">
 
-#### 🍑 [404 Offline](https://github.com/linmicarm) `in progress`
+#### ✎ [Penciled In](https://github.com/linmicarm/penciled-in)
 
-**atlanta's nerd scene, found**
+**a plan written in pencil, because plans change**
 
-the social layer between discord and real life. spawn points, side quests, guilds, and party finder. everything that can be found between con seasons.
+a real-time collaborative planning board. two people open the same board, one drags a card, the other sees it move.
 
-full-stack: auth, multi-entity crud, mapbox, and a live presence system.
+the interesting part is that neither breaks when they drag the same card at once. the server is the referee: clients send an intent, not a state, and the broadcast never waits on the database.
 
-<img src="https://img.shields.io/badge/Next.js-C8B6FF?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFB3C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-B5EAD7?style=flat-square&logo=supabase&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Mapbox-B5EAD7?style=flat-square&logo=mapbox&logoColor=4D4D4D" />
+<img src="https://img.shields.io/badge/React-C8B6FF?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFB3C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.IO-FFB3C6?style=flat-square&logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-B5EAD7?style=flat-square&logo=supabase&logoColor=4D4D4D" />
 
-*coming soon*
+**[live demo](https://penciled-in-app.vercel.app)** · **[repo](https://github.com/linmicarm/penciled-in)**
 
 </td>
 </tr>
 </table>
-
 ---
 
 ### 🌱 what i'm working on
 
 - **404 Offline** — a community platform for atlanta's nerd scene
-- **Penciled In** — a real-time collaborative planning board (websockets, live cursors, shared state)
 - getting better at the part that isn't code: designing systems, making tradeoffs, knowing what to cut
 
 <details>
