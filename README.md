@@ -71,6 +71,7 @@ the interesting part is that neither breaks when they drag the same card at once
 </td>
 </tr>
 </table>
+
 ---
 
 ### 🌱 what i'm working on
@@ -126,7 +127,7 @@ the interesting part is that neither breaks when they drag the same card at once
 |:---:|:---|
 | **languages** | <img src="https://img.shields.io/badge/JavaScript-FFB3C6?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFB3C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFB3C6?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-FFB3C6?style=for-the-badge&logo=c&logoColor=white" /> |
 | **frontend** | <img src="https://img.shields.io/badge/React-C8B6FF?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-C8B6FF?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-C8B6FF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-C8B6FF?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=for-the-badge&logo=css3&logoColor=white" /> |
-| **backend** | <img src="https://img.shields.io/badge/Node.js-B5EAD7?style=for-the-badge&logo=nodedotjs&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Express-B5EAD7?style=for-the-badge&logo=express&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/PostgreSQL-B5EAD7?style=for-the-badge&logo=postgresql&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Supabase-B5EAD7?style=for-the-badge&logo=supabase&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/MongoDB-B5EAD7?style=for-the-badge&logo=mongodb&logoColor=4D4D4D" /> |
+| **backend** | <img src="https://img.shields.io/badge/Node.js-B5EAD7?style=for-the-badge&logo=nodedotjs&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Express-B5EAD7?style=for-the-badge&logo=express&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Socket.IO-B5EAD7?style=for-the-badge&logo=socketdotio&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/PostgreSQL-B5EAD7?style=for-the-badge&logo=postgresql&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Supabase-B5EAD7?style=for-the-badge&logo=supabase&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/MongoDB-B5EAD7?style=for-the-badge&logo=mongodb&logoColor=4D4D4D" /> |
 | **tools** | <img src="https://img.shields.io/badge/Git-FFDAC1?style=for-the-badge&logo=git&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Vercel-FFDAC1?style=for-the-badge&logo=vercel&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/VSCode-FFDAC1?style=for-the-badge&logo=visualstudiocode&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Figma-FFDAC1?style=for-the-badge&logo=figma&logoColor=4D4D4D" /> |
 
 ---
