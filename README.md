@@ -118,7 +118,7 @@ full-stack: auth, multi-entity crud, mapbox, and a live presence system.
 
 ### 💌 find me here
 
-- portfolio: https://portfolio-ten-weld-87.vercel.app/
+- portfolio: https://iyashicoded.vercel.app
 - linkedin: https://linkedin.com/in/linmicarm
 - email: linmicarm@gmail.com
 
