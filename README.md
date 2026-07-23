@@ -24,17 +24,17 @@
 <tr>
 <td colspan="2" valign="top">
 
-#### 🍑 [404 Offline](https://github.com/linmicarm) `in progress`
+#### 🍑 [404 Offline](https://github.com/linmicarm/404-offline) — [live](https://404-offline.vercel.app)
 
 **atlanta's nerd scene, found**
 
-the social layer between discord and real life. spawn points, side quests, guilds, and party finder. everything that can be found between con seasons.
+a full-stack community platform for atlanta's anime, gaming, cosplay, and kawaii scene. maps local venues (spawn points), surfaces community events (side quests), and tracks conventions — so the scene stays alive between con seasons.
 
-full-stack: auth, multi-entity crud, mapbox, and a live presence system.
+multi-entity crud, leaflet maps with geolocation, threaded comments, featured event pinning, add-to-calendar, dark mode with grain texture, and an editorial design system built from scratch.
 
-<img src="https://img.shields.io/badge/Next.js-C8B6FF?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFB3C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-B5EAD7?style=flat-square&logo=supabase&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Mapbox-B5EAD7?style=flat-square&logo=mapbox&logoColor=4D4D4D" />
+<img src="https://img.shields.io/badge/React-C8B6FF?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-C8B6FF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-B5EAD7?style=flat-square&logo=nodedotjs&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Express-B5EAD7?style=flat-square&logo=express&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/PostgreSQL-B5EAD7?style=flat-square&logo=postgresql&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Prisma-C8B6FF?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/Leaflet-B5EAD7?style=flat-square&logo=leaflet&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Cloudinary-FFB3C6?style=flat-square&logo=cloudinary&logoColor=white" />
 
-*coming soon*
+**[live demo](https://404-offline.vercel.app)** · **[repo](https://github.com/linmicarm/404-offline)**
 
 </td>
 </tr>
@@ -76,13 +76,13 @@ the interesting part is that neither breaks when they drag the same card at once
 
 ### 🌱 what i'm working on
 
-- **404 Offline** — a community platform for atlanta's nerd scene
+- **The Save Point** — a cozy personal journaling platform with seasons as a first-class data model
 - getting better at the part that isn't code: designing systems, making tradeoffs, knowing what to cut
 
 <details>
 <summary>✨ current obsessions (...totally not related to how i code)</summary>
 
-- 🎮 *game:* SF6
+- 🎮 *game:* SF6 (maining JP)
 - 📺 *anime:* the apothecary diaries, witch hat atelier, and inuyasha
 - 📖 *manga:* NANA
 - 🧶 *making:* magical girl-inspired illustrations
@@ -127,8 +127,8 @@ the interesting part is that neither breaks when they drag the same card at once
 |:---:|:---|
 | **languages** | <img src="https://img.shields.io/badge/JavaScript-FFB3C6?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFB3C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFB3C6?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-FFB3C6?style=for-the-badge&logo=c&logoColor=white" /> |
 | **frontend** | <img src="https://img.shields.io/badge/React-C8B6FF?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-C8B6FF?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-C8B6FF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-C8B6FF?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=for-the-badge&logo=css3&logoColor=white" /> |
-| **backend** | <img src="https://img.shields.io/badge/Node.js-B5EAD7?style=for-the-badge&logo=nodedotjs&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Express-B5EAD7?style=for-the-badge&logo=express&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Socket.IO-B5EAD7?style=for-the-badge&logo=socketdotio&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/PostgreSQL-B5EAD7?style=for-the-badge&logo=postgresql&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Supabase-B5EAD7?style=for-the-badge&logo=supabase&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/MongoDB-B5EAD7?style=for-the-badge&logo=mongodb&logoColor=4D4D4D" /> |
-| **tools** | <img src="https://img.shields.io/badge/Git-FFDAC1?style=for-the-badge&logo=git&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Vercel-FFDAC1?style=for-the-badge&logo=vercel&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/VSCode-FFDAC1?style=for-the-badge&logo=visualstudiocode&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Figma-FFDAC1?style=for-the-badge&logo=figma&logoColor=4D4D4D" /> |
+| **backend** | <img src="https://img.shields.io/badge/Node.js-B5EAD7?style=for-the-badge&logo=nodedotjs&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Express-B5EAD7?style=for-the-badge&logo=express&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Socket.IO-B5EAD7?style=for-the-badge&logo=socketdotio&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/PostgreSQL-B5EAD7?style=for-the-badge&logo=postgresql&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Prisma-B5EAD7?style=for-the-badge&logo=prisma&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Supabase-B5EAD7?style=for-the-badge&logo=supabase&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/MongoDB-B5EAD7?style=for-the-badge&logo=mongodb&logoColor=4D4D4D" /> |
+| **tools** | <img src="https://img.shields.io/badge/Git-FFDAC1?style=for-the-badge&logo=git&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Vercel-FFDAC1?style=for-the-badge&logo=vercel&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Docker-FFDAC1?style=for-the-badge&logo=docker&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/VSCode-FFDAC1?style=for-the-badge&logo=visualstudiocode&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Figma-FFDAC1?style=for-the-badge&logo=figma&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Cloudinary-FFDAC1?style=for-the-badge&logo=cloudinary&logoColor=4D4D4D" /> |
 
 ---
 
