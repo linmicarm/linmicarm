@@ -41,6 +41,23 @@ multi-entity crud, leaflet maps with geolocation, threaded comments, featured ev
 <tr>
 <td colspan="2" valign="top">
 
+#### 🏮 [lantern](https://github.com/linmicarm/lantern) — [live](https://lantern-commons.vercel.app)
+
+**a multilingual home for niche hobby groups**
+
+a full-stack community platform built for smaller, more intimate communities than mainstream social platforms serve. discussion boards, event coordination, and resource sharing — designed for groups that don't all speak the same language.
+
+the interesting part isn't the boards. it's the membership model underneath: per-community roles (owner/mod/member), a public/private access gate that lets guests browse open communities but read-walls private ones, and posts that are locale-tagged so multiple languages sit side by side on the same board.
+
+<img src="https://img.shields.io/badge/Next.js-C8B6FF?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFB3C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-B5EAD7?style=flat-square&logo=postgresql&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Prisma-C8B6FF?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-B5EAD7?style=flat-square&logo=supabase&logoColor=4D4D4D" />
+
+**[live demo](https://lantern-commons.vercel.app)** · **[repo](https://github.com/linmicarm/lantern)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### 🍓 [hoshii](https://github.com/linmicarm/hoshii) — [live](https://hoshiiapp.vercel.app)
 
 **an emotional archive for the things you watch**
@@ -52,23 +69,6 @@ the interesting part isn't the tracking. it's the mood system that drives every 
 <img src="https://img.shields.io/badge/React-C8B6FF?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFB3C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-C8B6FF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-A0E7E5?style=flat-square&logo=tailwindcss&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/Supabase-B5EAD7?style=flat-square&logo=supabase&logoColor=4D4D4D" /> <img src="https://img.shields.io/badge/GraphQL-FFB3C6?style=flat-square&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/AniList-C8B6FF?style=flat-square&logo=anilist&logoColor=white" />
 
 **[live demo](https://hoshiiapp.vercel.app)** · **[repo](https://github.com/linmicarm/hoshii)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🪞 [Kagami](https://github.com/linmicarm/kagami)
-
-**a gentle journaling companion**
-
-write an entry, receive one soft ai reflection back. not advice, not a fix, just a quiet noticing.
-
-the interesting part isn't the model call. it's the designed voice, the wellbeing guardrail that runs *before* the model is ever consulted, and the serverless proxy that keeps the api key off the client.
-
-<img src="https://img.shields.io/badge/React-C8B6FF?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-C8B6FF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-FFB3C6?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-B5EAD7?style=flat-square&logo=vercel&logoColor=4D4D4D" />
-
-**[live demo](https://kagami-app-sandy.vercel.app/)** · **[repo](https://github.com/linmicarm/kagami)**
 
 </td>
 <td width="50%" valign="top">
@@ -113,6 +113,7 @@ the interesting part is that neither breaks when they drag the same card at once
 
 | | project | what it is | built with | links |
 |---|---------|-----------|-----------|-------|
+| 🪞 | **Kagami** | a gentle journaling companion — write an entry, receive one soft ai reflection back. not advice, just a quiet noticing. a wellbeing guardrail runs *before* the model is ever consulted, and a serverless proxy keeps the api key off the client. | <img src="https://img.shields.io/badge/React-C8B6FF?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-C8B6FF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-FFB3C6?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-B5EAD7?style=flat-square&logo=vercel&logoColor=4D4D4D" /> | [repo](https://github.com/linmicarm/kagami) · [live](https://kagami-app-sandy.vercel.app/) |
 | 🌈 | **Personal Portfolio** | a fully hand-coded personal portfolio site built with vanilla HTML, CSS, and JavaScript. | <img src="https://img.shields.io/badge/HTML5-C8B6FF?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-FFB3C6?style=flat-square&logo=javascript&logoColor=white" /> | [repo](https://github.com/linmicarm/portfolio) · [live](https://iyashicoded.vercel.app/) |
 | 🍑 | **Atlanta Non-Place Detector** | an intown atlanta field guide that ranks neighborhoods by how alive they feel, using marc augé's idea of the non-place. map-based, marta-themed, with live openstreetmap data. | <img src="https://img.shields.io/badge/HTML5-C8B6FF?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-FFB3C6?style=flat-square&logo=javascript&logoColor=white" /> | [repo](https://github.com/linmicarm/soulless-cities) · [live](https://linmicarm.github.io/soulless-cities/) |
 | 📌 | **Volunteer Opportunity Board** | a react application that helps users discover volunteer opportunities from a public API and post their own. | <img src="https://img.shields.io/badge/React-C8B6FF?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-FFB3C6?style=flat-square&logo=javascript&logoColor=white" /> | [repo](https://github.com/linmicarm/volunteer-opportunity-board) · [live](https://linmicarm.github.io/volunteer-opportunity-board/) |
