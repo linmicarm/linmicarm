@@ -138,6 +138,7 @@ the interesting part is that neither breaks when they drag the same card at once
 | 🧮 | **Calculator** | a fully functional calculator built with vanilla JavaScript. | [repo](https://github.com/linmicarm/top/tree/main/calculator) · [live](https://linmicarm.github.io/top/calculator/) |
 | 🍙 | **Odin Eats** | a handcrafted recipe collection page featuring japanese dishes and drinks. | [repo](https://github.com/linmicarm/top/tree/main/recipes) · [live](https://linmicarm.github.io/top/recipes/) |
 | 🖥️ | **Landing Page** | a hand-coded landing page from the odin project foundations curriculum. | [repo](https://github.com/linmicarm/top/tree/main/landingPage) · [live](https://linmicarm.github.io/top/landingPage/) |
+| 📚 | **Library** | a book-tracking app built from the odin project — add, remove, and mark books read through a `<dialog>` form, with everything saved to localStorage. a study in separating data from display, prototypes, and event delegation. | [repo](https://github.com/linmicarm/library) · [live](https://linmicarm.github.io/library/) |
 
 </details>
 
